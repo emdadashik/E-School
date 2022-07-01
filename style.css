@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+body{
+    font-family: 'poppins', sans-serif;
+}
+.navbar-brand img{
+    width: 120px;
+}
+.navbar-nav .nav-item .nav-link{
+    padding-right: 18px;
+}
+header{
+    background: #F0FFF0;
+
+}
+.grn-btn{
+    padding: 8px 24px;
+    border: none;
+    border-radius: 33px;
+    background-color: #21B573;
+    color: #fff;
+}
+.banner{
+    height: 520px;
+    background: #F0FFF0;
+
+}
+.banner h2{
+    font-size: 48px;
+    font-weight: 700;
+}
+.banner p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 36px;
+}
+.clr-txt{
+    color: #21B573;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+}
+
+.banner img{
+    width: 554px;
+    height: 346px;
+    left: 691px;
+    top: 157px;
+}
+.features{
+    margin: 35px 0px;
+}
+.features .card{
+    border: none;
+    border-radius: 10px;
+    background-color: #F8FFFB;
+}
+.features .card:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.features .img{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 8px;
+}
+.mt{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.courses{
+    margin-bottom: 50px;
+}
+.courses .card{
+    background: #FFFFFF;
+    width: 370px;
+    height: 483px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 18px;
+}
+.testimonial{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footer{
+    width: 1440px;
+    height: 369px;
+    font-weight: 300;
+    background: #282531;
+}
+.footer-p{
+    margin-top: 55px;
+    width: 364px;
+    height: 60px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.li1{
+    margin-top: 55px;
+    width: 125px;
+    margin-right: 128px;
+}
+.footer ul li{
+    list-style-type: none;
+    color: white;
+    font-size: 12px;
+}
+.footer ul h4{
+    color: white;
+    font-size: 16px;
+}
+footer{
+    background: #282531;
+}
